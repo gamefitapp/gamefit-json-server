@@ -73,16 +73,16 @@
     ]
   },
   "themeOnePricingSection": {
-    "heading": "Pricing Plan",
-    "content": "we believe in making simple and fair pricing plans. Choose your next successful plan and get started today!.",
+    "heading": "",
+    "content": "Si estás pensando en poner en marcha algún proyecto relacionado con la salud y el movimiento, esto te puede interesar:",
     "pricingData": [
       {
         "id": 1,
-        "heading": "Basic",
-        "priceType": "Individual",
-        "minPrice": "7.",
-        "subPrice": "00",
-        "packageTime": "Month"
+        "heading": "EMPRESAS",
+        "priceType": " Ayúdamos a las empresas a implementar el saludable hábito de moverse activamente durante el día. Empresas en movimiento, saludables y productivas. ¿Te atreves?",
+        "minPrice": "",
+        "subPrice": "",
+        "packageTime": ""
       },
       {
         "id": 2,
@@ -104,34 +104,35 @@
   },
   "themeOneFaqSection": {
     "heading": "Faq's",
-    "content": "we believe in making simple and fair pricing plans. Choose your next successful planand get started today!.",
+    "content": "",
     "image": "/img/faq-right.png",
     "data": [
       {
         "id": 1,
-        "question": "Modern, Elegant Design ?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros.,"
+        "question": "¿En qué consiste el juego?",
+        "answer": "Básicamente se trata de acumular la máxima actividad diaria (caminar, distancia, minutos de ejercicio, calorías…) y sincronizar en tu perfil. Eso te permitirá jugar en los distintos formatos: desafíos o ligas."
       },
       {
         "id": 2,
-        "question": "User Interface Design ?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros.,"
+        "question": "¿Quién puede jugar?",
+        "answer": "Todo el mundo. Independientemente de tu edad, sexo o condición física. No importa donde vivas, cuál sea tu ritmo de vida o cómo vayas vestido. Nos da igual si llevas traje, botas de montaña, mocasines o chanclas."
       },
       {
         "id": 3,
-        "question": "Cross Browser Support ?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros.,"
+        "question": "¿Cómo registro mi actividad?",
+        "answer": "Actualmente y dependiendo de tu dispositivo móvil, cogemos tu actividad de aplicaciones externas que normalmente se activan en todos los dispositivos. Para Android utilizamos Google Fit y para IOS HearthKit."
       },
       {
         "id": 4,
-        "question": "User Experience Design ?",
-        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl lorem, dictum id pellentesque at, vestibulum ut arcu. Curabitur erat libero, egestas eu tincidunt ac, rutrum ac justo. Vivamus condimentum laoreet lectus, blandit posuere tortor aliquam vitae. Curabitur molestie eros.,"
+        "question": "¿Por qué no puedo sincronizar mi pulsera?",
+        "answer": "Básicamente porque todavía no nos ha dado tiempo, pero el equipo de desarrollo está en ello.
+"
       }
     ]
   },
   "themeOneDownloadSection": {
-    "heading": "Get The App Now !",
-    "content": "Seamlessly transform timely e-commerce for diverse leadership skills. Conveniently reconceptualize go forward expertise without extensible applications.Phosfluorescently.",
+    "heading": "Descarga la app",
+    "content": "Estás a un click de venirte al movimiento revolucionario de la salud urbana. ¿Te atreves a dar el paso?",
     "image": "/img/download-app.png",
     "data": [
       {
@@ -147,46 +148,24 @@
         "category": "Google Play",
         "iconClass": "ti-android",
         "extraaClass": ""
-      },
-      {
-        "id": 3,
-        "heaing": "Download On",
-        "category": "Windows",
-        "iconClass": "ti-microsoft",
-        "extraaClass": ""
       }
     ]
   },
   "themeOneContactSection": {
-    "heading": "Contact with us",
-    "content": "It's very easy to get in touch with us. Just use the contact form or pay us a visit for a coffee at the office. Dynamically innovate competitive technology after an expanded array of leadership.",
-    "branch": "Head Office",
-    "address": "121 King St, Melbourne VIC 3000, Australia",
-    "contact": "+61 2 8376 6284",
-    "email": "hello@yourdomain.com"
+    "heading": "HABLAMOS!",
+    "content": "Si quieres ponerte en contacto con nosotros para cualquier duda, comentario o sugerencia o simplemente para tomar un cafecito; aquí estamos. ",
+    "branch": "Oficina Central",
+    "address": "Paseo Cerrado de Calderón, 13, Local B",
+    "contact": "",
+    "email": "gamefit@gottraining.com"
   },
   "themeOneFooterSection": {
     "image": "/img/logo-color.png",
     "socialMedia": [
       {
-        "id": 1,
-        "iconClass": "fa fa-facebook",
-        "link": "facebook"
-      },
-      {
         "id": 2,
         "iconClass": "fa fa-twitter",
         "link": "twitter"
-      },
-      {
-        "id": 3,
-        "iconClass": "fa fa-linkedin",
-        "link": "linkedin"
-      },
-      {
-        "id": 4,
-        "iconClass": "fa fa-google-plus",
-        "link": "google-plus"
       },
       {
         "id": 5,
