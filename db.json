@@ -28,47 +28,47 @@
     ]
   },
   "themeOneFeatureSection": {
-    "content": "Continually network virtual strategic theme areas vis-a-vis ubiquitous potentialities. Holisticly negotiate focused e-tailers without premium solutions.",
-    "heading": "ApeTech Features",
+    "content": "",
+    "heading": "Pros de Gamefit",
     "image": "/img/feature-image.png",
     "featureDataOne": [
       {
         "id": 1,
         "iconClass": "fa fa-object-ungroup",
-        "heading": "Responsive web design",
-        "content": "Modular and interchangable componente between layouts and even demos."
+        "heading": "Supérate cada día",
+        "content": "Escoge un objetivo personal y trata de lograrlo cada día. La aplicación ajustará tu meta según tus datos sincronizados adaptados a tu estilo de vida. "
       },
       {
         "id": 2,
         "iconClass": "fa fa-dropbox",
-        "heading": "Loaded with features",
-        "content": "Modular and interchangable componente between layouts and even demos."
+        "heading": "Compite contra ti",
+        "content": "Acepta los desafíos propuestos y trata de conseguir el reto. Jugaremos con la duración y el tipo de actividad: caminar, minutos de ejercicio, distancia o calorías."
       },
       {
         "id": 3,
         "iconClass": "fa fa-smile-o",
-        "heading": "Friendly online support",
-        "content": "Modular and interchangable componente between layouts and even demos."
+        "heading": "Compite contra todos",
+        "content": "Únete a las ligas activas y trata de quedar en la mejor posición posible en el ranking. Estableceremos la duración, el tipo de juego, la actividad y la temática. "
       }
     ],
     "featureDataTwo": [
       {
         "id": 1,
         "iconClass": "fa fa-file-archive-o",
-        "heading": "Free updates forever",
-        "content": "Modular and interchangable componente between layouts and even demos."
+        "heading": "Moneda virtual, ¿fits?",
+        "content": "Queremos gratificar el esfuerzo de todos. Superar desafíos o quedar en una buena posición en las ligas, seguiremos para ganar más monedas, fits, que dan acceso a conseguir premios en la aplicación."
       },
       {
         "id": 2,
         "iconClass": "fa fa-adjust",
-        "heading": "Infinite colors",
-        "content": "Modular and interchangable componente between layouts and even demos."
+        "heading": "Premios y recompensas",
+        "content": "Canjea tus fits desde la propia aplicación y consigue los servicios o productos que estén activos, solo tendrás que preocuparte de tener monedas para desbloquearlos. "
       },
       {
         "id": 3,
         "iconClass": "fa fa-smile-o",
-        "heading": "Friendly online support",
-        "content": "Modular and interchangable componente between layouts and even demos."
+        "heading": "Sincronizar actividad",
+        "content": "Necesitamos saber qué haces diariamente. Si utilizas Android, cogeremos la información de Google Fit y para IOS de Heartkit. Acepta los permisos para poder jugar con tus datos. "
       }
     ]
   },
