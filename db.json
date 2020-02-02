@@ -86,19 +86,19 @@
       },
       {
         "id": 2,
-        "heading": "Premium",
+        "heading": "MAYORES",
         "priceType": "Business",
-        "minPrice": "15.",
-        "subPrice": "00",
-        "packageTime": "Month"
+        "minPrice": "",
+        "subPrice": "Buscamos mayores que revolucionen el mundo del movimiento. Si tienes +60 años y estás dispuesto a demostrar tu valía acumulando pasos, te retamos. ¿Aceptas el desafío?",
+        "packageTime": ""
       },
       {
         "id": 3,
-        "heading": "Ultimate",
+        "heading": "JÓVENES",
         "priceType": "Enterprise",
-        "minPrice": "23.",
-        "subPrice": "00",
-        "packageTime": "Month"
+        "minPrice": "",
+        "subPrice": "Queremos potenciar hábitos de vida saludables en edades tempranas a través del movimiento. Si piensas que tu colegio es el más activo de España es hora de demostrarlo. ¿Vamos?",
+        "packageTime": ""
       }
     ]
   },
