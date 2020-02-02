@@ -105,7 +105,7 @@
   "themeOneFaqSection": {
     "heading": "Faq's",
     "content": "",
-    "image": "/img/faq-right.png",
+    "image": "/img/app/gamefitIcon.png",
     "data": [
       {
         "id": 1,
@@ -132,7 +132,7 @@
   "themeOneDownloadSection": {
     "heading": "Descarga la app",
     "content": "Estás a un click de venirte al movimiento revolucionario de la salud urbana. ¿Te atreves a dar el paso?",
-    "image": "/img/download-app.png",
+    "image": "/img/app/gamefitIcon.png",
     "data": [
       {
         "id": 1,
