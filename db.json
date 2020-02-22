@@ -16,13 +16,13 @@
         {
             "id": 3,
             "heading": "Gamificación",
-            "content": "Implantación de rutinas diarias atraves del juego y la diversión.",
+            "content": "Implantación de rutinas diarias a través del juego y la diversión.",
             "iconClass": "ti-palette"
         },
         {
             "id": 4,
             "heading": "Lito 24h",
-            "content": "Nuestro personaje te acompañara atraves de esta aventura",
+            "content": "Nuestro personaje te acompañara a través de esta aventura",
             "iconClass": "ti-headphone-alt"
         }
     ]
@@ -74,31 +74,31 @@
   },
   "themeOnePricingSection": {
     "heading": "Servicios",
-    "content": "Si estás pensando en poner en marcha algún proyecto relacionado con la salud y el movimiento, esto te puede interesar:",
+    "content": "Nos adaptamos a tus necesidades. Participa en las ligas públicas activas, crea ligas privadas con tus amigos o, si lo prefieres, diseñamos una acción a medida para ti. ¿Qué refieres?",
     "pricingData": [
       {
         "id": 1,
-        "heading": "EMPRESAS",
+        "heading": "Free",
         "priceType": "",
         "minPrice": "",
-        "subPrice": "Ayúdamos a las empresas a implementar el saludable hábito de moverse activamente durante el día. Empresas en movimiento, saludables y productivas. ¿Te atreves?",
-        "packageTime": ""
+        "subPrice": "0€",
+        "packageTime": "¡A jugar!"
       },
       {
         "id": 2,
-        "heading": "MAYORES",
+        "heading": "Basic",
         "priceType": "Business",
         "minPrice": "",
-        "subPrice": "Buscamos mayores que revolucionen el mundo del movimiento. Si tienes +60 años y estás dispuesto a demostrar tu valía acumulando pasos, te retamos. ¿Aceptas el desafío?",
-        "packageTime": ""
+        "subPrice": "1€/día",
+        "packageTime": "más info"
       },
       {
         "id": 3,
-        "heading": "JÓVENES",
+        "heading": "Extent",
         "priceType": "Enterprise",
         "minPrice": "",
-        "subPrice": "Queremos potenciar hábitos de vida saludables en edades tempranas a través del movimiento. Si piensas que tu colegio es el más activo de España es hora de demostrarlo. ¿Vamos?",
-        "packageTime": ""
+        "subPrice": "Personalizado",
+        "packageTime": "más info"
       }
     ]
   },
@@ -155,7 +155,7 @@
     "content": "Si quieres ponerte en contacto con nosotros para cualquier duda, comentario o sugerencia o simplemente para tomar un cafecito; aquí estamos. ",
     "branch": "Oficina Central",
     "address": "Paseo Cerrado de Calderón, 13, Local B",
-    "contact": "",
+    "contact": "+34 651 384 566",
     "email": "gamefit@gottraining.com"
   },
   "themeOneFooterSection": {
@@ -164,12 +164,12 @@
       {
         "id": 2,
         "iconClass": "fa fa-twitter",
-        "link": "twitter"
+        "link": "https://twitter.com/gamefitapp"
       },
       {
         "id": 5,
-        "iconClass": "fa fa-youtube",
-        "link": "youtube"
+        "iconClass": "fa fa-facebook",
+        "link": "https://www.facebook.com/gamefitapp"
       }
     ]
   }
