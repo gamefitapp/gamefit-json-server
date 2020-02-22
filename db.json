@@ -155,7 +155,7 @@
     "content": "Si quieres ponerte en contacto con nosotros para cualquier duda, comentario o sugerencia o simplemente para tomar un cafecito; aquí estamos. ",
     "branch": "Oficina Central",
     "address": "Paseo Cerrado de Calderón, 13, Local B",
-    "contact": "",
+    "contact": "+34 651 384 566",
     "email": "gamefit@gottraining.com"
   },
   "themeOneFooterSection": {
@@ -164,12 +164,12 @@
       {
         "id": 2,
         "iconClass": "fa fa-twitter",
-        "link": "twitter"
+        "link": "https://twitter.com/gamefitapp"
       },
       {
         "id": 5,
-        "iconClass": "fa fa-youtube",
-        "link": "youtube"
+        "iconClass": "fa fa-facebook",
+        "link": "https://www.facebook.com/gamefitapp/"
       }
     ]
   }
